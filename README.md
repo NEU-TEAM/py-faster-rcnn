@@ -1,0 +1,1 @@
+This py-faster-rcnn is capable with cuDNN v5
